@@ -1,5 +1,7 @@
 # Geminaadi poolitamine 2.0
 
+Praati plugin, mis lisab TextGridEditorile Edit menüüsse nupud eesti keele geminaatide poolitamiseks.
+
 ## Paigaldamine
 
   - Salvesta kaust "plugin_geminaadiPoolitamine" oma arvutis Praati seadete kausta. Windowsis võiks see asuda "C:\Users\SINU_KASUTAJANIMI\Praat" ja Macis "/Users/SINU_KASUTAJANIMI/Library/Preferences/Praat Prefs/" (vt täpsemalt [Praati manuaalist](https://www.fon.hum.uva.nl/praat/manual/preferences_folder.html)).
